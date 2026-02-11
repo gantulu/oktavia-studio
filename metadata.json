@@ -1,0 +1,7 @@
+{
+  "name": "Oktavia AI Image Studio",
+  "description": "An AI-powered product image editor that allows you to reimagine and transform product catalog items using Gemini 2.5 Flash Image technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
